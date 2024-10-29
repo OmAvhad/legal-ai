@@ -1,0 +1,984 @@
+{
+"name": "Reliance Industries Ltd",
+"currentPrice": "₹ 2,656",
+"changePercentage": "-0.89%",
+"lastUpdate": "25 Oct",
+"marketCap": "₹ 17,96,896 Cr.",
+"stockPE": "26.5",
+"bookValue": "₹ 1,211",
+"dividendYield": "0.19 %",
+"roce": "9.61 %",
+"roe": "9.25 %",
+"faceValue": "₹ 10.0",
+"pros": [
+"Company has reduced debt."
+],
+"cons": [
+"Company has a low return on equity of 8.71% over last 3 years."
+],
+"profitLoss": {
+"headers": [
+"Mar 2013",
+"Mar 2014",
+"Mar 2015",
+"Mar 2016",
+"Mar 2017",
+"Mar 2018",
+"Mar 2019",
+"Mar 2020",
+"Mar 2021",
+"Mar 2022",
+"Mar 2023",
+"Mar 2024",
+"TTM"
+],
+"sales": [
+"395,957",
+"433,521",
+"374,372",
+"272,583",
+"303,954",
+"390,823",
+"568,337",
+"596,679",
+"466,307",
+"694,673",
+"876,396",
+"899,041",
+"924,938"
+],
+"expenses": [
+"362,802",
+"398,586",
+"336,923",
+"230,802",
+"257,647",
+"326,508",
+"484,087",
+"507,413",
+"385,517",
+"586,092",
+"734,078",
+"736,543",
+"763,943"
+],
+"operatingProfit": [
+"33,155",
+"34,935",
+"37,449",
+"41,781",
+"46,307",
+"64,315",
+"84,250",
+"89,266",
+"80,790",
+"108,581",
+"142,318",
+"162,498",
+"160,995"
+],
+"opm": [
+"8%",
+"8%",
+"10%",
+"15%",
+"15%",
+"16%",
+"15%",
+"15%",
+"17%",
+"16%",
+"16%",
+"18%",
+"17%"
+],
+"otherIncome": [
+"7,757",
+"8,865",
+"8,528",
+"12,212",
+"9,222",
+"9,869",
+"8,406",
+"8,570",
+"22,432",
+"19,600",
+"12,020",
+"16,179",
+"17,415"
+],
+"interest": [
+"3,463",
+"3,836",
+"3,316",
+"3,691",
+"3,849",
+"8,052",
+"16,495",
+"22,027",
+"21,189",
+"14,584",
+"19,571",
+"23,118",
+"23,485"
+],
+"depreciation": [
+"11,232",
+"11,201",
+"11,547",
+"11,565",
+"11,646",
+"16,706",
+"20,934",
+"22,203",
+"26,572",
+"29,782",
+"40,303",
+"50,832",
+"52,948"
+],
+"profitBeforeTax": [
+"26,217",
+"28,763",
+"31,114",
+"38,737",
+"40,034",
+"49,426",
+"55,227",
+"53,606",
+"55,461",
+"83,815",
+"94,464",
+"104,727",
+"101,977"
+],
+"tax": [
+"20%",
+"22%",
+"24%",
+"23%",
+"25%",
+"27%",
+"28%",
+"26%",
+"3%",
+"19%",
+"22%",
+"25%",
+""
+],
+"netProfit": [
+"20,886",
+"22,548",
+"23,640",
+"29,861",
+"29,833",
+"36,080",
+"39,837",
+"39,880",
+"53,739",
+"67,845",
+"74,088",
+"79,020",
+"77,652"
+],
+"eps": [
+"30.31",
+"32.62",
+"34.14",
+"43.03",
+"43.11",
+"53.39",
+"58.55",
+"58.20",
+"77.50",
+"89.74",
+"98.59",
+"102.90",
+"100.38"
+],
+"dividendPayout": [
+"13%",
+"12%",
+"12%",
+"10%",
+"11%",
+"10%",
+"10%",
+"10%",
+"9%",
+"9%",
+"9%",
+"10%",
+""
+],
+"rangesTables": {
+"Compounded Sales Growth": {
+"10 Years:": "8%",
+"5 Years:": "10%",
+"3 Years:": "24%",
+"TTM:": "6%"
+},
+"Compounded Profit Growth": {
+"10 Years:": "13%",
+"5 Years:": "12%",
+"3 Years:": "16%",
+"TTM:": "-1%"
+},
+"Stock Price CAGR": {
+"10 Years:": "20%",
+"5 Years:": "15%",
+"3 Years:": "3%",
+"1 Year:": "19%"
+},
+"Return on Equity": {
+"10 Years:": "10%",
+"5 Years:": "9%",
+"3 Years:": "9%",
+"Last Year:": "9%"
+}
+}
+},
+"balanceSheet": {
+"headers": [
+"Mar 2013",
+"Mar 2014",
+"Mar 2015",
+"Mar 2016",
+"Mar 2017",
+"Mar 2018",
+"Mar 2019",
+"Mar 2020",
+"Mar 2021",
+"Mar 2022",
+"Mar 2023",
+"Mar 2024",
+"Sep 2024"
+],
+"equityCapital": [
+"2,936",
+"2,940",
+"2,943",
+"2,948",
+"2,959",
+"5,922",
+"5,926",
+"6,339",
+"6,445",
+"6,765",
+"6,766",
+"6,766",
+"6,766"
+],
+"reserves": [
+"179,119",
+"195,747",
+"215,556",
+"228,608",
+"260,750",
+"287,584",
+"381,186",
+"442,827",
+"693,727",
+"772,720",
+"709,106",
+"786,715",
+"812,687"
+],
+"borrowings": [
+"107,219",
+"138,761",
+"168,251",
+"194,714",
+"217,475",
+"239,843",
+"307,714",
+"355,133",
+"278,962",
+"319,158",
+"451,664",
+"458,991",
+"357,525"
+],
+"otherLiabilities": [
+"73,083",
+"91,395",
+"117,736",
+"172,727",
+"225,618",
+"277,924",
+"302,804",
+"358,716",
+"340,931",
+"399,979",
+"438,346",
+"502,576",
+"638,145"
+],
+"totalLiabilities": [
+"362,357",
+"428,843",
+"504,486",
+"598,997",
+"706,802",
+"811,273",
+"997,630",
+"1,163,015",
+"1,320,065",
+"1,498,622",
+"1,605,882",
+"1,755,048",
+"1,815,123"
+],
+"fixedAssets": [
+"133,487",
+"141,417",
+"156,458",
+"184,910",
+"198,526",
+"403,885",
+"398,374",
+"532,658",
+"541,258",
+"627,798",
+"724,805",
+"779,985",
+"968,747"
+],
+"cwip": [
+"49,952",
+"91,494",
+"166,462",
+"228,697",
+"324,837",
+"187,022",
+"179,463",
+"109,106",
+"125,953",
+"172,506",
+"293,752",
+"338,855",
+"198,873"
+],
+"investments": [
+"42,848",
+"60,602",
+"76,451",
+"84,015",
+"82,899",
+"82,862",
+"235,635",
+"276,767",
+"364,828",
+"394,264",
+"235,560",
+"225,672",
+"244,559"
+],
+"otherAssets": [
+"136,070",
+"135,330",
+"105,115",
+"101,375",
+"100,540",
+"137,504",
+"184,158",
+"244,484",
+"288,026",
+"304,054",
+"351,765",
+"410,536",
+"402,944"
+],
+"totalAssets": [
+"362,357",
+"428,843",
+"504,486",
+"598,997",
+"706,802",
+"811,273",
+"997,630",
+"1,163,015",
+"1,320,065",
+"1,498,622",
+"1,605,882",
+"1,755,048",
+"1,815,123"
+]
+},
+"cashFlow": {
+"headers": [
+"Mar 2013",
+"Mar 2014",
+"Mar 2015",
+"Mar 2016",
+"Mar 2017",
+"Mar 2018",
+"Mar 2019",
+"Mar 2020",
+"Mar 2021",
+"Mar 2022",
+"Mar 2023",
+"Mar 2024"
+],
+"operatingActivity": [
+"36,918",
+"43,261",
+"34,374",
+"38,134",
+"49,550",
+"71,459",
+"42,346",
+"94,877",
+"26,958",
+"110,654",
+"115,032",
+"158,788"
+],
+"investingActivity": [
+"-27,601",
+"-73,070",
+"-64,706",
+"-36,186",
+"-66,201",
+"-68,192",
+"-94,507",
+"-72,497",
+"-142,385",
+"-109,162",
+"-93,001",
+"-113,581"
+],
+"financingActivity": [
+"408",
+"13,713",
+"8,444",
+"-3,210",
+"8,617",
+"-2,001",
+"55,906",
+"-2,541",
+"101,904",
+"17,289",
+"10,455",
+"-16,646"
+],
+"netCashFlow": [
+"9,725",
+"-16,096",
+"-21,888",
+"-1,262",
+"-8,034",
+"1,266",
+"3,745",
+"19,839",
+"-13,523",
+"18,781",
+"32,486",
+"28,561"
+]
+},
+"ratios": {
+"headers": [
+"Mar 2013",
+"Mar 2014",
+"Mar 2015",
+"Mar 2016",
+"Mar 2017",
+"Mar 2018",
+"Mar 2019",
+"Mar 2020",
+"Mar 2021",
+"Mar 2022",
+"Mar 2023",
+"Mar 2024"
+],
+"debtorDays": [
+"9",
+"8",
+"5",
+"6",
+"10",
+"16",
+"19",
+"12",
+"15",
+"12",
+"12",
+"13"
+],
+"inventoryDays": [
+"60",
+"57",
+"66",
+"90",
+"84",
+"83",
+"63",
+"67",
+"102",
+"83",
+"87",
+"95"
+],
+"daysPayable": [
+"55",
+"61",
+"74",
+"117",
+"132",
+"146",
+"100",
+"87",
+"136",
+"123",
+"91",
+"111"
+],
+"cashConversionCycle": [
+"14",
+"4",
+"-2",
+"-21",
+"-38",
+"-46",
+"-18",
+"-9",
+"-19",
+"-27",
+"7",
+"-3"
+],
+"workingCapitalDays": [
+"-1",
+"-3",
+"-37",
+"-117",
+"-141",
+"-144",
+"-67",
+"-101",
+"12",
+"-13",
+"-9",
+"-10"
+],
+"roce": [
+"10%",
+"10%",
+"9%",
+"10%",
+"10%",
+"11%",
+"12%",
+"11%",
+"8%",
+"8%",
+"9%",
+"10%"
+]
+},
+"shareholdingPattern": {
+"headers": [
+"Dec 2021",
+"Mar 2022",
+"Jun 2022",
+"Sep 2022",
+"Dec 2022",
+"Mar 2023",
+"Jun 2023",
+"Sep 2023",
+"Dec 2023",
+"Mar 2024",
+"Jun 2024",
+"Sep 2024"
+],
+"promoters": [
+"50.61%",
+"50.66%",
+"50.62%",
+"50.56%",
+"50.49%",
+"50.41%",
+"50.39%",
+"50.27%",
+"50.30%",
+"50.31%",
+"50.33%",
+"50.24%"
+],
+"fiis": [
+"24.75%",
+"24.23%",
+"23.90%",
+"23.58%",
+"23.48%",
+"22.49%",
+"22.55%",
+"22.60%",
+"22.13%",
+"22.06%",
+"21.75%",
+"21.30%"
+],
+"diis": [
+"13.62%",
+"14.23%",
+"14.67%",
+"14.91%",
+"15.26%",
+"16.06%",
+"16.13%",
+"15.99%",
+"16.59%",
+"16.98%",
+"17.30%",
+"17.61%"
+],
+"public": [
+"10.85%",
+"10.71%",
+"10.64%",
+"10.78%",
+"10.59%",
+"10.89%",
+"10.76%",
+"10.98%",
+"10.80%",
+"10.46%",
+"10.43%",
+"10.67%"
+],
+"others": [],
+"noOfShareholders": [
+"33,06,662",
+"33,27,847",
+"33,06,732",
+"34,85,825",
+"33,62,915",
+"36,39,396",
+"35,06,867",
+"36,98,648",
+"36,13,814",
+"34,63,276",
+"34,93,125",
+"38,34,968"
+]
+},
+"documents": {
+"announcements": [
+{
+"title": "Compliances-Reg. 39 (3) - Details of Loss of Certificate / Duplicate Certificate 5h - Information on loss of 6,729 share certificates.",
+"url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=32e87630-9df6-4d22-9cdf-b9c5d6649cb9.pdf"
+},
+{
+"title": "Compliances-Reg. 39 (3) - Details of Loss of Certificate / Duplicate Certificate 1d",
+"url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=36560d35-f894-4932-a069-2652b780bb9b.pdf"
+},
+{
+"title": "Compliances-Reg. 39 (3) - Details of Loss of Certificate / Duplicate Certificate 1d",
+"url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=42748be6-a03f-4bd3-bb95-15e2d0f217b5.pdf"
+},
+{
+"title": "Compliances-Reg. 39 (3) - Details of Loss of Certificate / Duplicate Certificate 2d - Information on loss of 7266 share certificates.",
+"url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=02e449f9-4593-4542-be60-e3dc0d45415a.pdf"
+},
+{
+"title": "Forfeiture And Cancellation Of Partly Paid-Up Equity Shares 22 Oct - Cancellation of 1,42,565 forfeited partly paid-up equity shares.",
+"url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d3d36715-1e3c-4338-a751-cde38c2e24e9.pdf"
+}
+],
+"annualReports": [
+{
+"title": "Financial Year 2024 from bse",
+"url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d473280d-1c2b-4037-8ff9-dfbb82aa2c7e.pdf"
+},
+{
+"title": "Financial Year 2023 from bse",
+"url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=\b55b5dfc-a3bf-4f24-9d7f-ca09774a1dd9.pdf"
+},
+{
+"title": "Financial Year 2022 from bse",
+"url": "https://www.bseindia.com/bseplus/AnnualReport/500325/74185500325.pdf"
+},
+{
+"title": "Financial Year 2021 from bse",
+"url": "https://www.bseindia.com/bseplus/AnnualReport/500325/68509500325.pdf"
+},
+{
+"title": "Financial Year 2020 from bse",
+"url": "https://www.bseindia.com/bseplus/AnnualReport/500325/5003250320.pdf"
+},
+{
+"title": "Financial Year 2019 from bse",
+"url": "https://www.bseindia.com/bseplus/AnnualReport/500325/5003250319.pdf"
+},
+{
+"title": "Financial Year 2018 from bse",
+"url": "https://www.bseindia.com/bseplus/AnnualReport/500325/5003250318.pdf"
+},
+{
+"title": "Financial Year 2017 from bse",
+"url": "https://www.bseindia.com/bseplus/AnnualReport/500325/5003250317.pdf"
+},
+{
+"title": "Financial Year 2016 from bse",
+"url": "https://www.bseindia.com/bseplus/AnnualReport/500325/5003250316.pdf"
+},
+{
+"title": "Financial Year 2015 from bse",
+"url": "https://www.bseindia.com/bseplus/AnnualReport/500325/5003250315.pdf"
+},
+{
+"title": "Financial Year 2014 from bse",
+"url": "https://www.bseindia.com/bseplus/AnnualReport/500325/5003250314.pdf"
+},
+{
+"title": "Financial Year 2013 from nse",
+"url": "https://archives.nseindia.com/annual_reports/AR_19_RELIANCE_2012_2013_08052013171218.zip"
+},
+{
+"title": "Financial Year 2013 from bse",
+"url": "https://www.bseindia.com/bseplus/AnnualReport/500325/5003250313.pdf"
+},
+{
+"title": "Financial Year 2012 from bse",
+"url": "https://www.bseindia.com/bseplus/AnnualReport/500325/5003250312.pdf"
+},
+{
+"title": "Financial Year 2012 from nse",
+"url": "https://archives.nseindia.com/annual_reports/AR_RELIANCE_2011_2012_29062012101059.zip"
+}
+],
+"concalls": [
+{
+"date": "Oct 2024",
+"links": {
+"Transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0e6309fa-450f-4db6-88b2-d76d9a3ff756.pdf",
+"PPT": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fd1fe004-0eb0-4a2b-9859-7b62a89e451c.pdf"
+}
+},
+{
+"date": "Aug 2024",
+"links": {
+"PPT": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9364b18a-7921-4029-bcfa-78921cd7807e.pdf"
+}
+},
+{
+"date": "Jul 2024",
+"links": {
+"Transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=191e6ab9-4751-4017-ba5f-bb63daf2d871.pdf",
+"PPT": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=24faf885-ece1-4852-b0fe-91fc8643dc1c.pdf"
+}
+},
+{
+"date": "Apr 2024",
+"links": {
+"Transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=06b05d06-8c38-4aee-aa5b-5e7108ae3871.pdf",
+"PPT": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0501df4e-7d64-455d-bbb0-4b2118067e51.pdf",
+"REC": "https://www.ril.com/investors/events-presentations#webcast-sec"
+}
+},
+{
+"date": "Jan 2024",
+"links": {
+"Transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=de3e8ff3-efca-4266-9bc8-7509f48574a4.pdf",
+"PPT": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1cb66ca2-dfd5-4f46-986f-03b0661bd486.pdf"
+}
+},
+{
+"date": "Oct 2023",
+"links": {
+"Transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ef9baa21-923a-48ad-9fb7-2157af59ae16.pdf",
+"PPT": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f9c9eba2-4b08-430f-a3a0-0dd5419b7f8f.pdf"
+}
+},
+{
+"date": "Aug 2023",
+"links": {
+"PPT": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7cf2df9a-51bb-45d4-9004-3cad20b5920b.pdf"
+}
+},
+{
+"date": "Jul 2023",
+"links": {
+"Transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f2fa506f-675b-46db-9f7b-26303a05d6b9.pdf",
+"PPT": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=dc6d4a06-e2bc-4df4-8b8a-5db0f50b1918.pdf"
+}
+},
+{
+"date": "Apr 2023",
+"links": {
+"Transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9c8c3f07-883a-476b-8fb2-8fe74078e9f5.pdf",
+"PPT": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7c228ccc-99ad-4bd9-be72-0a746c30ebee.pdf"
+}
+},
+{
+"date": "Jan 2023",
+"links": {
+"Transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=dfb275bd-fd47-4a38-964e-21a67e26b3c2.pdf",
+"PPT": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1ef9c86c-8f99-4791-a677-ea8a65e4ef28.pdf"
+}
+},
+{
+"date": "Oct 2022",
+"links": {
+"Transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=aa7a60c6-791d-4e59-94e6-9f94c3a506fc.pdf",
+"PPT": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d6182ad1-6f8e-4112-b865-984ea1035107.pdf"
+}
+},
+{
+"date": "Jul 2022",
+"links": {
+"PPT": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9e81c058-6b85-4f18-ba5a-bbdd72156edf.pdf"
+}
+},
+{
+"date": "May 2022",
+"links": {
+"PPT": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bf7646f7-940a-429b-b3eb-0625715f6aeb.pdf"
+}
+},
+{
+"date": "Feb 2022",
+"links": {
+"PPT": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7d172a7c-9056-4588-ad0c-d5c114ff902a.pdf"
+}
+},
+{
+"date": "Jan 2022",
+"links": {
+"PPT": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6047c516-bdab-4a88-9103-81d6ddad23d5.pdf"
+}
+},
+{
+"date": "Oct 2021",
+"links": {
+"PPT": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1008c763-0d31-4432-a031-6dd4afda0c72.pdf"
+}
+},
+{
+"date": "Jul 2021",
+"links": {
+"PPT": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=33e997e6-025e-478e-b71f-fb59dca2a4ef.pdf"
+}
+},
+{
+"date": "Apr 2021",
+"links": {
+"PPT": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b9139079-b211-4486-a604-ef5b85a7985e.pdf"
+}
+},
+{
+"date": "Feb 2021",
+"links": {
+"PPT": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=caff4f40-fd8f-49ae-929c-f5dae4c98ec3.pdf"
+}
+},
+{
+"date": "Feb 2021",
+"links": {
+"PPT": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4c079f28-425e-4fb4-a830-ae9f4fde355d.pdf"
+}
+},
+{
+"date": "Jan 2021",
+"links": {
+"PPT": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c44095c1-55cb-4048-a235-6f776dd054e9.pdf"
+}
+},
+{
+"date": "Jan 2021",
+"links": {
+"PPT": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ee845952-2c47-4abc-b15a-ab759c068efe.pdf"
+}
+},
+{
+"date": "Oct 2020",
+"links": {
+"PPT": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ef91573e-ebb9-4257-8209-b684d9380a3e.pdf"
+}
+},
+{
+"date": "Jul 2020",
+"links": {
+"PPT": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c9c7754a-ab5a-4463-a5cb-3baafbef135d.pdf"
+}
+},
+{
+"date": "May 2020",
+"links": {
+"PPT": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8841c2b4-6659-4ea6-aefd-9874fee15705.pdf"
+}
+},
+{
+"date": "Jan 2020",
+"links": {
+"PPT": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a738dab1-1698-4a4f-b863-148b5c5023e0.pdf"
+}
+},
+{
+"date": "Oct 2019",
+"links": {
+"PPT": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5f6d2f75-5b1f-4c8b-87eb-34e3c8246fb1.pdf"
+}
+},
+{
+"date": "Oct 2019",
+"links": {
+"PPT": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bcf1b986-0d58-4126-b3fa-cf67e7b44e14.pdf"
+}
+},
+{
+"date": "Apr 2019",
+"links": {
+"PPT": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=05c527f3-c7ff-4e83-a2b3-d7d92b20969d.pdf"
+}
+},
+{
+"date": "Jan 2019",
+"links": {
+"PPT": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=040c976b-6d40-4903-905e-27820f21eb05.pdf"
+}
+},
+{
+"date": "Oct 2018",
+"links": {
+"PPT": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d71a237f-6917-4594-969d-cfd62d1849d9.pdf"
+}
+},
+{
+"date": "Apr 2018",
+"links": {
+"PPT": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e0357498-61d2-405d-98c9-02a1e83b556b.pdf"
+}
+},
+{
+"date": "Jan 2018",
+"links": {
+"PPT": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1a49913c-4798-4f48-ab39-e187ea89caf2.pdf"
+}
+},
+{
+"date": "Oct 2017",
+"links": {
+"PPT": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=421cf002-f53b-4c1c-a8be-de2fdda6fd05.pdf"
+}
+},
+{
+"date": "Jun 2016",
+"links": {
+"PPT": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6669EE6F_088E_4C15_9839_E2DBB861749D_110427.pdf"
+}
+}
+]
+},
+"peers": [
+"I O C L",
+"B P C L",
+"H P C L",
+"M R P L",
+"C P C L",
+"Gandhar Oil Ref."
+]
+}
