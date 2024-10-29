@@ -5,7 +5,7 @@ from PIL import Image
 import io
 
 pytesseract.pytesseract.tesseract_cmd = (
-    r"C:\Program Files\Tesseract-OCR\tesseract.exe"
+    r"C:\Users\Om Avhad\AppData\Local\Programs\Tesseract-OCR\tesseract.exe"
 )
 import re
 import os

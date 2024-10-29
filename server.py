@@ -111,7 +111,7 @@ if uploaded_file is not None:
     
     if st.button("Ask"):
         answer = gemini_general(
-            f"Answer the question precisely from the given context. "
+            f"Answer the question ecisely from the given context. "
             f"Question: {question} Context: {text}"
         )
         st.info(answer)
