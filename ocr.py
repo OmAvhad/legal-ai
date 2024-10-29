@@ -6,7 +6,7 @@ import fitz
 import io
 
 pytesseract.pytesseract.tesseract_cmd = (
-    r"C:\Program Files\Tesseract-OCR\tesseract.exe"
+    r"C:\Users\Om Avhad\AppData\Local\Programs\Tesseract-OCR\tesseract.exe"
 )
 
 
@@ -26,7 +26,6 @@ def ocr(uploaded_file):
             uploaded_file.seek(0)  # Reset file pointer to the beginning
             pdf_bytes = uploaded_file.read()
 
-            print(pdf_bytes)
             # Create a PDF document from the bytes
             pdf_document = fitz.open(stream=pdf_bytes, filetype="pdf")
 
@@ -46,10 +45,6 @@ def ocr(uploaded_file):
                 text += pytesseract.image_to_string(image)
 
             pdf_document.close()
-
-        # create a text file and write the text to it
-        with open("./output.txt", "w") as text_file:
-            text_file.write(text)
 
         return text
 
