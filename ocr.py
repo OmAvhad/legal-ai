@@ -6,7 +6,7 @@ import fitz
 import io
 
 pytesseract.pytesseract.tesseract_cmd = (
-    r"C:\Users\Om Avhad\AppData\Local\Programs\Tesseract-OCR\tesseract.exe"
+    r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 )
 
 

@@ -1,0 +1,182 @@
+Free cyber security policy: cover
+1. This template document is published by SEQ Legal LLP.
+2. We and our licensors control the copyright in this template, and you may only
+use this template in accordance with the licensing provisions in our terms and
+conditions. Those licensing provisions include an obligation to retain the SEQ
+Legal credit incorporated into the template.
+3. The current version of our terms and conditions is available at:
+https://seqlegal.com/our-terms-and-conditions.
+4. If you would like to use this template without the SEQ Legal credit, you can
+purchase a licence to do so at: https://www.website-
+contracts.co.uk/seqlegal-licences.html
+5. You will need to edit this template before use. Guidance notes to help you do
+so are set out at the end of the template. During the editing process, you
+should delete those guidance notes and this cover sheet. Square brackets in
+the body of the document indicate areas that require editorial attention.
+"ORs" in the body of the document indicate alternative provisions. By the end
+of the editing process, there should be no square brackets left in the body of
+the document, and only one alternative from each set of alternatives should
+remain. Elements may be specified as optional in the accompanying notes,
+but that does not mean that they are in all cases removable. Depending upon
+the circumstances, an optional element may be: (i) required by law; or (ii)
+necessary to ensure that the document is internally consistent.
+6. If you have any doubts about the editing or use of this template, you should
+seek professional advice.
+Cyber security policy
+1. Introduction
+1.1 Cyber security has been identified as a major risk for [company name] (the
+"company") and [every employee and contractor] needs to contribute for us
+to remain secure.
+1.2 The company has invested in technical cyber security measures, but we also
+need [our employees and contractors] to be vigilant and act to protect the
+company IT systems.
+1.3 This policy provides information about your role in keeping the company
+secure.
+1.4 Please contact [name, role] if you have any questions about cyber security.
+1.5 [If you are an employee, this policy forms part of your employment contract.
+][If you are a contractor, this policy forms a part of your contract of
+engagement. ]Any breach of this policy shall constitute a breach of contract.
+2. Credit
+2.1 This document was created using a template from SEQ Legal
+(https://seqlegal.com).
+You must retain the above credit. Use of this document without the credit is an
+infringement of copyright. However, you can purchase from us an equivalent
+document that does not include the credit.
+3. Cyber security requirements
+3.1 You must:
+(a) [choose strong passwords (the company's IT team advises that a strong
+password contains [list of types of characters, password length etc. as
+permitted by your IT systems])];
+(b) [keep passwords secret];
+(c) [never reuse a password]; and
+(d) [never allow any other person to access the company's systems using
+your login details].
+[additional list items]
+3.2 You must not turn off or attempt to circumvent any security measures
+(antivirus software, firewalls, web filtering, encryption, automatic updates
+etc.) that the IT team have installed on your computer, phone or network or
+the company IT systems.
+3.3 You must report any security breach, suspicious activity, or mistake you
+make that may cause a cyber security breach, to [name, role] by [contact
+method] within [number] minutes of the discovery or occurrence.
+3.4 You must only access work systems using computers or phones that the
+company owns. [You may only connect personal devices to the [public] OR
+[visitor] Wi-Fi provided in [location].]
+3.5 You must not install software onto your company computer or phone[. All
+software requests should be made to [name, role]].
+3.6 You should avoid clicking on links to unknown websites, downloading large
+files, or accessing inappropriate content using company equipment or
+networks.
+4. Consequences of system misuse
+4.1 The company considers the following actions to be a misuse of its IT systems
+or resources:
+(a) any malicious or illegal action carried out against the company or using
+the company's systems;
+(b) accessing inappropriate, adult or illegal content within company
+premises or using company equipment;
+(c) excessive personal use of company IT systems during core working
+hours;
+(d) removing data or equipment from company premises or systems
+without permission, or in circumstances prohibited by this policy;
+(e) using company equipment in a way prohibited by this policy;
+(f) circumventing technical cyber security measures implemented by the
+company's IT team; and
+(g) failing to report a mistake or cyber security breach[ within [number]
+minutes of its occurrence or discovery].
+[additional list items]
+4.2 If you are an employee, misuse of the IT system will be referred to the
+human resources team and [may] OR [will] be considered [misconduct or
+gross misconduct]; if you are a contractor and are found to be misusing the
+company IT systems, your contract [may] OR [will] be terminated.
+Declaration
+I, [individual's name], agree to use company IT systems only in the way this policy
+describes.
+Signed by [individual's name]
+........................................
+Free cyber security policy: drafting notes
+This free cyber security policy has been created by Emma Osborn of OCSRC to help
+small (especially new) businesses to create their first internal policy in relation to
+cyber security.
+This policy is identical to our basic policy, except that it includes a Docular credit,
+and accordingly it covers only they basics. If you need more detail, you should look
+at the standard and premium versions of the document.
+Issues covered in the policy include: (i) the legal nature of the policy; (ii) the
+consequences of a breach of the policy; (ii) specific rules of behaviour relating to
+passwords, technical security measures, breach reporting, personal devices and
+software installation.
+This policy is restrictive rather than permissive.
+Clause 1: Introduction
+This section outlines the purpose of the policy, explaining to its users why they
+should be reading the document and engaging with the problem (and not just
+blindly accepting the terms and conditions).
+Clause 1.2
+This reinforces the responsibility of the employees - cyber security is about people
+avoiding making mistakes if possible. The policy is intended to educate or remind
+employees about the things they have to do to keep the company secure.
+Clause 1.4
+Optional element.
+Clause 1.5
+Optional element.
+Usually a policy would be part of an employment contract or tied to a contractor
+agreement. This is because policies without teeth may be ineffective - just like any
+other contract, there needs to be a consequence for the signatory if they agree to,
+but don't abide by, its terms. If you're supplying this policy to volunteers in a
+charity or club then you should delete this term and instead focus on describing
+your concerns, because you'll be relying on goodwill.
+Clause 2: Credit
+Clause: Free documents licensing warning
+Optional element. Although you need to retain the credit, you should remove the
+inline copyright warning from this document before use.
+Clause 3: Cyber security requirements
+The basic set of requirements gives organisations starting from scratch the
+opportunity to make a few small changes before working on a more complete cyber
+security policy. It's not complete, but out of the box it should help you to define
+user responsibilities and begin developing a culture of cyber security. It picks up on
+the most prolific cyber security problems, buying you time to develop something
+more precise.
+Clause 3.1
+Optional element.
+Passwords represent the biggest risk of making mistakes that you allow your
+employees. It's really important that they get this right, and you should define a
+password policy within your organisation, so that you provide a consistent set of
+rules with each password you ask them to create.
+Clause 3.2
+Optional element.
+There's nothing worse than thinking you've managed a risk, only to find that people
+are (non-maliciously) undoing your security. Causing a breach by circumventing
+security should have major consequences as it is an avoidable act.
+Clause 3.3
+Optional element.
+This reinforces the responsibility of the employee and tells them whom to notify and
+how. You may wish to put the employee on a timer, to make sure that they know
+that this is urgent.
+Clause 3.4
+Optional element.
+If your security approach is to create a secure bubble, entirely controlled by your IT
+team, then you need to make sure that employees don't bring unpermitted devices
+(and the associated threat of them containing malware) into that bubble. Some
+organisations maintain a "public" or visitor Wi-Fi facility in reception, breakout
+areas etc. to keep visitors happy and avoid employees trying to bring their devices
+in.
+Clause 3.5
+Optional element.
+You might want to add contact details here if the person who installs software is not
+the person notified of cyber security issues.
+Clause 3.6
+Optional element.
+Clause 4: Consequences of system misuse
+This is where you need to be explicit about the teeth this policy holds. It might be
+written in a more accessible language, but it is part of a contract.
+Clause 4.1
+This list gives examples of purposes a system might be used for but that your IT or
+HR teams might consider misuse. This list should only include things you think are
+serious enough that if they occur would result in HR proceedings or the termination
+of a contract. You should add items as appropriate.
+Clause 4.2
+Be absolutely clear about the consequences of IT system misuse; otherwise, any
+HR proceedings etc. would be unfair on the employee.
+Clause: Declaration
+The declaration is important whenever this policy is used as part of a contract,
+because it provides proof that the employee has seen the document. Also, by
+requiring a signature you may increase the number of employees who actually read
+the policy.
