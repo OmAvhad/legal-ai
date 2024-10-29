@@ -9,8 +9,31 @@ import os
 
 st.title("Legal AI Assistant")
 
+@st.cache(show_spinner=False)
+def process_file(uploaded_file):
+    # Perform OCR
+    text = ocr(uploaded_file)
+
+    # Call Gemini API
+    while True:
+        try:
+            output = gemini(text, analyze_function)
+            break
+        except:
+            pass
+
+    # Extract the highlighted text
+    highlighted_text = "\n".join(output.get("list", []))
+
+    # Get Summary from Gemini
+    summary = gemini_general(
+        "Give a simple understandable summary in one paragraph: " + text
+    )
+
+    return text, output, highlighted_text, summary
+
 uploaded_file = st.file_uploader(
-    "Choose an image or PDF...", type=["png", "jpg", "jpeg", "pdf"]
+    "Choose an image or PDF...", type=["png", "jpg", "jpeg", "pdf"], key="file_uploader"
 )
 
 if uploaded_file is not None:
@@ -30,33 +53,21 @@ if uploaded_file is not None:
 
     st.success("File successfully uploaded!")
 
-    # Perform OCR
-    text = ocr(uploaded_file)
-
-    # Call Gemini API
-    while True:
-        try:
-            output = gemini(text, analyze_function)
-            break
-        except:
-            pass
+    text, output, highlighted_text, summary = process_file(uploaded_file)
 
     st.write(output)
 
-    # Extract the highlighted text
-    highlighted_text = "\n".join(output.get("list", []))
-
     # Language Translation for Highlighted Text
     st.subheader("Translate Highlighted Text")
-    languages_highlighted = st.multiselect(
-        "Select languages to translate the highlighted text", 
-        options=list(language_titles.keys()), 
-        format_func=lambda x: language_titles[x], 
+    highlighted_text_languages = st.multiselect(
+        "Select languages to translate the highlighted text",
+        options=list(language_titles.keys()),
+        format_func=lambda x: language_titles[x],
         key="highlighted_text_languages"
     )
 
     if st.button("Translate Highlighted Text"):
-        translations = translate_text(highlighted_text, languages_highlighted)
+        translations = translate_text(highlighted_text, highlighted_text_languages)
         for lang, translated_text in translations.items():
             st.write(f"**{language_titles[lang]} ({lang})**: {translated_text}")
 
@@ -67,10 +78,10 @@ if uploaded_file is not None:
     elif uploaded_file.type == "application/pdf":
         # Reset file pointer
         uploaded_file.seek(0)
-        
+
         # Generate highlighted PDF
         highlighted_pdf_path = highlight_text_in_pdf(uploaded_file, output["list"])
-        
+
         # Display the highlighted PDF
         with open(highlighted_pdf_path, "rb") as pdf_file:
             pdf_bytes = pdf_file.read()
@@ -80,35 +91,31 @@ if uploaded_file is not None:
                 file_name="highlighted_document.pdf",
                 mime="application/pdf"
             )
-        
+
         # Clean up temporary file
         os.remove(highlighted_pdf_path)
 
-    # Get Summary from Gemini
-    summary = gemini_general(
-        "Give a simple understandable summary in one paragraph: " + text
-    )
+    # Summary Section
     st.subheader("Summary")
     st.write(summary)
 
-    # Language Translation for Summary
     st.subheader("Translate Summary")
-    languages_summary = st.multiselect(
-        "Select languages to translate the summary", 
-        options=list(language_titles.keys()), 
-        format_func=lambda x: language_titles[x], 
+    summary_languages = st.multiselect(
+        "Select languages to translate the summary",
+        options=list(language_titles.keys()),
+        format_func=lambda x: language_titles[x],
         key="summary_languages"
     )
 
     if st.button("Translate Summary"):
-        translations = translate_text(summary, languages_summary)
+        translations = translate_text(summary, summary_languages)
         for lang, translated_text in translations.items():
             st.write(f"**{language_titles[lang]} ({lang})**: {translated_text}")
 
     # Question-Answer Section
     st.subheader("Have a question? Ask me anything!")
-    question = st.text_input("Question")
-    
+    question = st.text_input("Question", key="question_input")
+
     if st.button("Ask"):
         answer = gemini_general(
             f"Answer the question precisely from the given context. "
